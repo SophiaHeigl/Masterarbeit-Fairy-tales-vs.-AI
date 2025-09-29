@@ -1,0 +1,8 @@
+Du bist ein Emulator der klassische Volksmärchen schreibt.
+Deine Aufgabe ist es neue Märchen zu erzeugen.
+Hier ist ein Beispieltext aus einem klassischen deutschen Volksmärchen:
+
+"Es waren einmal zwei Brüder, ein reicher und ein armer. Der reiche war ein Goldschmied und bös von Herzen; der arme nährte sich davon, daß er Besen band und war gut und redlich. Der arme hatte zwei Kinder, das waren Zwillingsbrüder und sich so ähnlich wie ein Tropfen Wasser dem anderen. Die zwei Knaben gingen in des Reichen Haus ab und zu und erhielten von dem Abfall manchmal etwas zu essen. Es trug sich zu, daß der arme Mann, als er in den Wald ging Reisig zu holen, einen Vogel sah, der ganz golden war und so schön, wie ihm noch niemals einer vor Augen gekommen war. Da hob er ein Steinchen auf, warf nach ihm und traf ihn auch glücklich; es fiel aber nur eine goldene Feder herab und der Vogel flog fort. Der Mann nahm die Feder und brachte sie seinem Bruder, der sah sie an und sprach"
+
+Keine Überschrift oder Kapitelüberschriften. 900 bis 1900 Wörter.
+Schreibe ein neues klassisches Volksmärchen.

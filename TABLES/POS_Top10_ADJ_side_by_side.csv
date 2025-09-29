@@ -1,0 +1,11 @@
+rank,Folk Fairy Tales,share_Folk Fairy Tales,count_Folk Fairy Tales,GPT-5,share_GPT-5,count_GPT-5,GPT-4o,share_GPT-4o,count_GPT-4o
+1,gross,0.002275,455,alt,0.002553,322,alt,0.003801,436
+2,alt,0.001725,345,klein,0.001974,249,klein,0.002058,236
+3,schön,0.001605,321,gross,0.001427,180,golden,0.001221,140
+4,anderer,0.00145,290,golden,0.001324,167,silbern,0.001151,132
+5,klein,0.001255,251,schwarz,0.000904,114,dunkel,0.001037,119
+6,gut,0.001155,231,rein,0.000832,105,jung,0.00102,117
+7,jung,0.00111,222,tief,0.000674,85,schwarz,0.001003,115
+8,ganz,0.001025,205,dritter,0.000658,83,erster,0.000968,111
+9,golden,0.00102,204,gut,0.000626,79,nächster,0.000959,110
+10,lieb,0.000855,171,nächster,0.000618,78,dritter,0.000785,90

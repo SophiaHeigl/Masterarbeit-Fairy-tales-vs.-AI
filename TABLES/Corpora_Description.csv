@@ -1,0 +1,4 @@
+Corpus,Number of Documents,Token Count (sum),Word Count (sum),Mean Token Count / Doc,Mean Word Count / Doc,Median Word Count / Doc
+German_FFT,123,241159,200782,1960.64,1632.37,1437.0
+ChatGPT_4,100,139923,114701,1399.23,1147.01,1152.0
+ChatGPT_5,100,152570,126151,1525.7,1261.51,1266.5

@@ -1,0 +1,4 @@
+corpus;sws_label_pos_percent;sws_label_neg_percent;sws_conf_pos_percent;sws_conf_neg_percent
+Folk Fairy Tales;27,549013;24,296699;0,137561;0,389028
+GPT-4o;22,496420;19,478363;0,135935;0,473180
+GPT-5;28,233682;22,466077;0,187965;0,499755

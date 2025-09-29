@@ -1,0 +1,4 @@
+corpus;docs;mean_direct_speech_char_percent;min_percent;max_percent
+Folk Fairy Tales;122;26,32000000;1,15000000;71,99000000
+GPT-4o;100;19,24000000;5,40000000;35,38000000
+GPT-5;100;20,80000000;8,66000000;32,69000000

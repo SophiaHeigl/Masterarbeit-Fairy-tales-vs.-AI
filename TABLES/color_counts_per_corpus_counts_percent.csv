@@ -1,0 +1,4 @@
+corpus;tokens;silber_count;silber_percent;gold_count;gold_percent;schwarz_count;schwarz_percent;weiss_count;weiss_percent;rot_count;rot_percent;blau_count;blau_percent;gruen_count;gruen_percent;gelb_count;gelb_percent;pink_count;pink_percent;lila_count;lila_percent
+Folk Fairy Tales;200034;46;0,02;338;0,17;81;0,04;100;0,05;72;0,04;24;0,01;40;0,02;7;0,0;0;0,0;0;0,0
+GPT-4o;114699;181;0,16;273;0,24;164;0,14;49;0,04;32;0,03;25;0,02;46;0,04;3;0,0;0;0,0;0;0,0
+GPT-5;126146;133;0,11;402;0,32;141;0,11;78;0,06;29;0,02;15;0,01;31;0,02;2;0,0;0;0,0;0;0,0
