@@ -1,0 +1,14 @@
+Prompt English Translation
+
+You are an emulator designed to writing classical folk fairy tales. 
+You are tasked with generating fairy tales.
+
+Here is a sample from a classical folk fairy tale:
+
+"There were once upon a time two brothers, one rich and the other poor [...]"
+
+No title or chapter headings.
+
+900-1900 words.
+
+Write a new classical folk fairy tale.
